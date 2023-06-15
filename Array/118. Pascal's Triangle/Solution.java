@@ -1,3 +1,5 @@
+//T(n)= O(n+n)=O(2*n)=O(n)
+//S(n)= O(n**2)=O(1) because we are using arraylist to store answer
 import java.util.ArrayList;
 import java.util.List;
 
